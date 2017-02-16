@@ -2,4 +2,8 @@ title: backdrop-from-library
 hero_image: images/banner.png
 subtitle: backdrop-from-library subtitle
 description: backdrop-from-library description
-published: 'false'
+published: false
+
+steps:
+  - title: Step one
+    duration: 25
