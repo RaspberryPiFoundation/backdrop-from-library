@@ -1,5 +1,3 @@
-### Adding a backdrop from the Scratch library
-
 + Click 'Choose backdrop from library'.
 
 	![screenshot](images/stage-choose.png)
