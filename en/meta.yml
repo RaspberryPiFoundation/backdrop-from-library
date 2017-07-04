@@ -1,10 +1,12 @@
 title: Adding a backdrop from the Scratch library
 hero_image: images/banner.png
-subtitle: add a backdrop
 description: Adding a backdrop from the Scratch library
 theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
+copyedit: true
+interests:
+technologies: "scratch"
 steps:
   - title: Adding a backdrop
