@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ Klicken Sie auf | 123_8_0_321 | Wählen Sie Hintergrund aus der Bibliothek | 123_9_1_321 |.
     
-    ![screenshot](images/stage-choose.png)
+    ![Bildschirmfoto](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ Sie können Hintergründe nach Kategorie oder Thema durchsuchen. Klicken Sie auf einen Hintergrund und klicken Sie auf | 123_8_0_321 | OK | 123_9_1_321 |.
     
-    ![screenshot](images/backdrop.png)
+    ![Bildschirmfoto](images/backdrop.png)
