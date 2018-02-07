@@ -1,14 +1,14 @@
 ---
-title: Adding a backdrop from the Scratch library
-hero_image: images/banner.png
-description: Adding a backdrop from the Scratch library
+title: Agregar un fondo de la biblioteca Scratch
+hero_image: images / banner.png
+description: Agregar un fondo de la biblioteca Scratch
 theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "scratch"
+technologies: "rasguño"
 steps:
   - 
-    title: Adding a backdrop
+    title: Agregar un fondo
