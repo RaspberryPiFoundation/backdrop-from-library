@@ -1,14 +1,14 @@
 ---
-title: Adding a backdrop from the Scratch library
-hero_image: images/banner.png
-description: Adding a backdrop from the Scratch library
+title: Ajouter une toile de fond à partir de la bibliothèque Scratch
+hero_image: images / banner.png
+description: Ajouter une toile de fond à partir de la bibliothèque Scratch
 theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "scratch"
+technologies: "rayure"
 steps:
   - 
-    title: Adding a backdrop
+    title: Ajouter une toile de fond
