@@ -3,6 +3,7 @@ hero_image: images/banner.png
 description: Adding a backdrop from the Scratch library
 theme: cc-prototype
 duration: 1
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
