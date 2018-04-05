@@ -1,0 +1,13 @@
+title: 从 Scratch 库中添加背景
+hero_image: images/banner.png
+description: 从 Scratch 库中添加背景
+theme: cc-prototype
+duration: 1
+curriculum:
+listed: false
+ingredient: true
+copyedit: true
+interests:
+technologies: "scratch"
+steps:
+  - title: 添加背景
