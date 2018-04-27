@@ -2,6 +2,6 @@
     
     ![screenshot](images/stage-choose.png)
 
-+ Gli sfondi sono raggruppati per categoria e tema. Fai click su uno sfondo, e poi premi **OK**.
++ Gli sfondi sono raggruppati per categoria o tema. Fai click su uno sfondo, e poi premi **OK**.
     
     ![screenshot](images/backdrop.png)
