@@ -1,15 +1,15 @@
 ---
-title: Agregar un fondo de la biblioteca Scratch
-hero_image: images / banner.png
-description: Agregar un fondo de la biblioteca Scratch
+title: Agregar un fondo de la biblioteca de Scratch
+hero_image: images/banner.png
+description: Agregar un fondo de la biblioteca de Scratch
 theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
-technologies: "rasguño"
+interests:
+technologies: "scratch"
 steps:
   - 
     title: Agregar un fondo
