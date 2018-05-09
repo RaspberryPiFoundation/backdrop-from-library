@@ -1,15 +1,15 @@
 ---
-title: Adăugarea unui decor din biblioteca Scratch
-hero_image: images / banner.png
-description: Adăugarea unui decor din biblioteca Scratch
-theme: cc-prototip
+title: Adăugarea unui fundal din biblioteca Scratch
+hero_image: images/banner.png
+description: Adăugarea unui fundal din biblioteca Scratch
+theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
-technologies: "zgârietură"
+interests:
+technologies: "scratch"
 steps:
   - 
-    title: Adăugarea unui decor
+    title: Adăugarea unui fundal
