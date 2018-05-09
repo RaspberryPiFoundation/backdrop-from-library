@@ -1,7 +1,7 @@
-+ Faceți clic pe **Alege decor din bibliotecă**.
++ Faceți clic pe **Alegeți fundalul din biblioteca**.
     
     ![captură de ecran](images/stage-choose.png)
 
-+ Puteți explora decorurile după categorii sau după teme. Faceți clic pe un decor, apoi faceți clic pe **OK**.
++ Puteți căuta fundaluri pe categorii sau teme. Faceți clic pe un fundal și faceți clic pe **OK**.
     
     ![captură de ecran](images/backdrop.png)
