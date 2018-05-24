@@ -4,11 +4,11 @@ hero_image: ইমেজ / banner.png
 description: স্ক্র্যাচ লাইব্রেরি থেকে একটি ব্যাকড্রপ যোগ করা
 theme: CC-প্রোটোটাইপ
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "আঁচড়ের দাগ"
 steps:
   - 
