@@ -4,11 +4,11 @@ hero_image: images / banner.png
 description: 스크래치 라이브러리에서 배경 추가
 theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "할퀴다"
 steps:
   - 
