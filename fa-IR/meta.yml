@@ -4,11 +4,11 @@ hero_image: images / banner.png
 description: اضافه کردن یک پس زمینه از کتابخانه خراش
 theme: نمونه اولیه cc
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "خراش"
 steps:
   - 
