@@ -1,15 +1,15 @@
 ---
-title: スクラッチライブラリからバックグラウンドを追加する
-hero_image: images / banner.png
-description: スクラッチライブラリからバックグラウンドを追加する
+title: スクラッチのライブラリーから背景を追加する
+hero_image: images/banner.png
+description: スクラッチのライブラリーから背景を追加する
 theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
-technologies: "スクラッチ"
+interests:
+technologies: "scratch"
 steps:
   - 
     title: 背景を追加する
