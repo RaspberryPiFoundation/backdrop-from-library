@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ Clique em **Escolher pano de fundo da biblioteca**.
     
     ![screenshot](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ Você pode navegar pelos panos de fundo por categoria ou tema. Clique em um pano de fundo e clique em **OK**.
     
     ![screenshot](images/backdrop.png)
