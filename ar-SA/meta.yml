@@ -1,8 +1,8 @@
 ---
-title: Adding a backdrop from the Scratch library
+title: إضافة خلفية من مكتبة Scratch
 hero_image: images/banner.png
-description: Adding a backdrop from the Scratch library
-theme: cc-prototype
+description: إضافة خلفية من مكتبة Scratch
+theme: "cc-prototype\n"
 duration: 1
 curriculum:
 listed: false
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Adding a backdrop
+    title: إضافة خلفية
