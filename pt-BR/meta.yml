@@ -1,7 +1,7 @@
 ---
-title: Adicionando um pano de fundo da biblioteca Scratch
-hero_image: images / banner.png
-description: Adicionando um pano de fundo da biblioteca Scratch
+title: Adding a backdrop from the Scratch library
+hero_image: images/banner.png
+description: Adding a backdrop from the Scratch library
 theme: protótipo cc
 duration: 1
 curriculum:
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "coçar, arranhão"
+technologies: "scratch"
 steps:
   - 
-    title: Adicionando um pano de fundo
+    title: Adding a backdrop
