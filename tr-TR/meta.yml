@@ -1,7 +1,7 @@
 ---
-title: Scratch kütüphanesinden bir fon ekleme
+title: Adding a backdrop from the Scratch library
 hero_image: images / banner.png
-description: Scratch kütüphanesinden bir fon ekleme
+description: Adding a backdrop from the Scratch library
 theme: cc-prototip
 duration: 1
 curriculum:
@@ -12,4 +12,4 @@ interests:
 technologies: "çizik"
 steps:
   - 
-    title: Bir arka plan ekleme
+    title: Adding a backdrop
