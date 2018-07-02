@@ -1,7 +1,7 @@
-+ Fai click su **Scegli uno sfondo dalla libreria**.
++ Click **Choose backdrop from library**.
     
     ![screenshot](images/stage-choose.png)
 
-+ Gli sfondi sono raggruppati per categoria o tema. Fai click su uno sfondo, e poi premi **OK**.
++ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
     ![screenshot](images/backdrop.png)
