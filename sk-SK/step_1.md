@@ -1,7 +1,7 @@
-+ Kliknite na tlačidlo **Vyberte pozadie z knižnice**.
++ Click **Choose backdrop from library**.
     
     ![screenshot](images/stage-choose.png)
 
-+ Môžete prechádzať pozadia podľa kategórie alebo témy. Kliknite na pozadie a kliknite na **OK**.
++ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
     ![screenshot](images/backdrop.png)
