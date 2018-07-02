@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ Klik **Pilih latar dari pustaka**.
     
     ![screenshot](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ Kamu dapat menelusuri latar menurut kategori atau tema. Klik pada latar dan klik **OK**.
     
     ![screenshot](images/backdrop.png)
