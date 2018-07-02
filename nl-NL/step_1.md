@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ Klik op **Kies achtergrond uit bibliotheek**.
     
     ![screenshot](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ Je kunt door de achtergronden bladeren, per categorie of thema. Klik op een achtergrond en klik op **OK**.
     
     ![screenshot](images/backdrop.png)
