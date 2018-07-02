@@ -1,7 +1,7 @@
-+ Klik **Pilih latar belakang dari perpustakaan**.
++ Click **Choose backdrop from library**.
     
     ![tangkapan skrin](images/stage-choose.png)
 
-+ Anda boleh menyemak imbas latar belakang mengikut kategori atau tema. Klik pada tirai latar dan klik **OK**.
++ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
     ![tangkapan skrin](images/backdrop.png)
