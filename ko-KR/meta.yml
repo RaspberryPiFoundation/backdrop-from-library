@@ -1,7 +1,7 @@
 ---
-title: 스크래치 라이브러리에서 배경 추가
+title: Adding a backdrop from the Scratch library
 hero_image: images / banner.png
-description: 스크래치 라이브러리에서 배경 추가
+description: Adding a backdrop from the Scratch library
 theme: cc-prototype
 duration: 1
 curriculum:
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "할퀴다"
+technologies: "스크래치"
 steps:
   - 
-    title: 배경 추가
+    title: Adding a backdrop
