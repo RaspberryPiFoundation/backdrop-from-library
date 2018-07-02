@@ -1,7 +1,7 @@
-+ **ライブラリーから背景を選択** をクリックします。
++ Click **Choose backdrop from library**.
     
     ![スクリーンショット](images/stage-choose.png)
 
-+ カテゴリーやテーマ別に背景をブラウズすることができます。背景をクリックし、 **OK**をクリックします。
++ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
     ![スクリーンショット](images/backdrop.png)
