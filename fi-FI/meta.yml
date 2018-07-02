@@ -1,7 +1,7 @@
 ---
-title: Taustan kääntäminen Scratch-kirjastosta
+title: Adding a backdrop from the Scratch library
 hero_image: Kuvien / banner.png
-description: Taustan kääntäminen Scratch-kirjastosta
+description: Adding a backdrop from the Scratch library
 theme: CC-prototyyppi
 duration: 1
 curriculum:
@@ -12,4 +12,4 @@ interests:
 technologies: "naarmu"
 steps:
   - 
-    title: Taustan lisääminen
+    title: Adding a backdrop
