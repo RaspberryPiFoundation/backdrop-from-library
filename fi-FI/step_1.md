@@ -1,7 +1,7 @@
-+ Klikkaa **Valitse taustalla kirjastosta**.
++ Click **Choose backdrop from library**.
     
     ![kuvakaappaus](images/stage-choose.png)
 
-+ Voit selata taustoja luokan tai teeman mukaan. Napsauta taustaa ja napsauta **OK**.
++ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
     ![kuvakaappaus](images/backdrop.png)
