@@ -1,7 +1,7 @@
-+ Κάνε κλικ στο **Διαλέξτε ένα υπόβαθρο από τη βιβλιοθήκη**.
++ Click **Choose backdrop from library**.
     
     ![στιγμιότυπο οθόνης](images/stage-choose.png)
 
-+ Μπορείς να περιηγηθείς στα υπόβαθρα ανά κατηγορία ή θέμα. Κάνε κλικ σε ένα υπόβαθρο και πάτησε **OK**.
++ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
     ![στιγμιότυπο οθόνης](images/backdrop.png)
