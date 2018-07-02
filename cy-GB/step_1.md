@@ -1,7 +1,7 @@
-+ Cliciwch **Dewiswch gefndir o'r llyfrgell**.
++ Click **Choose backdrop from library**.
     
-    ![screenshot](images/stage-choose.png)
+    ![sgrinlun](images/stage-choose.png)
 
-+ Gallwch bori drwy'r ôl-destun yn ôl categori neu thema. Cliciwch ar gefndir a chliciwch **OK**.
++ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
-    ![screenshot](images/backdrop.png)
+    ![sgrinlun](images/backdrop.png)
