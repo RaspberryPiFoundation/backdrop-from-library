@@ -1,7 +1,7 @@
-+ Click **kütüphaneden zemin seçin**.
++ Click **Choose backdrop from library**.
     
     ![ekran görüntüsü](images/stage-choose.png)
 
-+ Arka plana kategoriye veya temaya göre göz atabilirsiniz. Bir zemine tıklayın ve **OK**tıklayın.
++ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
     ![ekran görüntüsü](images/backdrop.png)
