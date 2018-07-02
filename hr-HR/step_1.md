@@ -1,7 +1,7 @@
-+ Klikni na **Odaberi pozadinu iz knjižnice**.
++ Click **Choose backdrop from library**.
     
     ![screenshot](images/stage-choose.png)
 
-+ Možeš pretraživati pozadine prema kategoriji ili temi. Klikni na pozadinu, a zatim na **OK**.
++ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
     ![screenshot](images/backdrop.png)
