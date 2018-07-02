@@ -1,7 +1,7 @@
 + Click **Choose backdrop from library**.
     
-    ![screenshot](images/stage-choose.png)
+    ![截屏](images/stage-choose.png)
 
 + You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
     
-    ![screenshot](images/backdrop.png)
+    ![截屏](images/backdrop.png)
