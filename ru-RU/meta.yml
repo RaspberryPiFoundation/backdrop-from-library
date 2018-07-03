@@ -1,0 +1,14 @@
+---
+title: Добавление фона из библиотеки Scratch
+hero_image: images/banner.png
+description: Добавление фона из библиотеки Scratch
+theme: cc-prototype
+duration: 1
+curriculum:
+listed: false
+ingredient: true
+copyedit: true
+interests:
+technologies: "scratch"
+steps:
+  - title: Добавление фона
