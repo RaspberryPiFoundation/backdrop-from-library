@@ -1,0 +1,14 @@
+---
+title: 스크래치 라이브러리에서 배경 추가하기
+hero_image: images/banner.png
+description: 스크래치 라이브러리에서 배경 추가하기
+theme: cc-prototype
+duration: 1
+curriculum:
+listed: false
+ingredient: true
+copyedit: true
+interests:
+technologies: "스크래치"
+steps:
+  - title: 배경 추가하기
