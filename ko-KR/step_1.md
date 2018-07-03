@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ **라이브러리에서 배경 선택**을 클릭하세요.
     
     ![스크린샷](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ 카테고리 혹은 테마별로 배경을 탐색 할 수 있습니다. 배경을 클릭하고 **확인**를 클릭하세요.
     
     ![스크린샷](images/backdrop.png)
