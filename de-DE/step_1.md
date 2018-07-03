@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ Klicke auf **Bühnenbild aus der Bibliothek wählen**.
     
     ![screenshot](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ Du kannst Bühnenbilder nach Kategorie oder Thema durchsuchen. Klicke auf ein Bühnenbild und dann auf **OK**.
     
     ![screenshot](images/backdrop.png)
