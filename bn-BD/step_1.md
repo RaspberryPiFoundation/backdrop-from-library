@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ **Choose backdrop from library** -এ ক্লিক করুন।
     
-    ![স্ক্রিনশট](images/stage-choose.png)
+    ![screenshot](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ আপনি ব্যাকড্রপ ক্যাটাগরি অথবা থিম অনুযায়ী ব্রাউজ করতে পারেন। একটি ব্যাকড্রপে ক্লিক করে **OK** ক্লিক করুন।
     
-    ![স্ক্রিনশট](images/backdrop.png)
+    ![screenshot](images/backdrop.png)
