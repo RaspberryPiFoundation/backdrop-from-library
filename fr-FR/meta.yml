@@ -1,7 +1,7 @@
 ---
-title: Adding a backdrop from the Scratch library
-hero_image: images / banner.png
-description: Adding a backdrop from the Scratch library
+title: Ajouter un arrière plan à partir de la bibliothèque Scratch
+hero_image: images/banner.png
+description: Ajouter un arrière plan à partir de la bibliothèque Scratch
 theme: cc-prototype
 duration: 1
 curriculum:
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Adding a backdrop
+    title: Ajoute un décor
