@@ -1,6 +1,7 @@
-title: Scratch लाइब्रेरी से बैकड्रॉप शामिल करना
+---
+title: स्क्रैच लाइब्रेरी से पृष्ठभूमि(backdrop) जोड़ना
 hero_image: images/banner.png
-description: Scratch लाइब्रेरी से बैकड्रॉप शामिल करना
+description: स्क्रैच लाइब्रेरी से पृष्ठभूमि(backdrop) जोड़ना
 theme: cc-prototype
 duration: 1
 curriculum:
@@ -8,6 +9,6 @@ listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: “scratch"
+technologies: "scratch"
 steps:
-  - title: बैकड्रॉप शामिल करना
+  - title: पृष्ठभूमि जोड़ना
