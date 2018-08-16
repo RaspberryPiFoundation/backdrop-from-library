@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ روی **انتخاب پشت صحنه از کتابخانه** کلیک کنید.
     
     ![تصویری](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ میتوانید پشت صحنه ها را بر اساس دسته یا تم مرور کنید. روی یک پشت صحنه کلیک کنید و **تایید** را بزنید.
     
     ![تصویری](images/backdrop.png)
