@@ -1,7 +1,7 @@
-+ __Choose backdrop from library__ पर क्लिक करें।
++ **Choose backdrop from library** पर क्लिक करें।
+    
+    ![स्क्रीनशॉट](images/stage-choose.png)
 
-	![screenshot](images/stage-choose.png)
-
-+ आप श्रेणी या विषय के अनुसार बैकड्रॉप्स ब्राउज़ कर सकते हैं बैकड्रॉप पर क्लिक करें और __OK__ पर क्लिक करें।
-
-	![screenshot](images/backdrop.png)
++ आप श्रेणी या थीम के अनुसार पृष्ठ्भूमि ब्राउज़ कर सकते हैं पृष्ठ्भूमि पर क्लिक करें और **OK** पर क्लिक करें।
+    
+    ![स्क्रीनशॉट](images/backdrop.png)
