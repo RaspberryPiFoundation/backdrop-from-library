@@ -1,7 +1,7 @@
 + روی **انتخاب پشت صحنه از کتابخانه** کلیک کنید.
     
-    ![تصویری](images/stage-choose.png)
+    ![screenshot](images/stage-choose.png)
 
 + میتوانید پشت صحنه ها را بر اساس دسته یا تم مرور کنید. روی یک پشت صحنه کلیک کنید و **تایید** را بزنید.
     
-    ![تصویری](images/backdrop.png)
+    ![screenshot](images/backdrop.png)
