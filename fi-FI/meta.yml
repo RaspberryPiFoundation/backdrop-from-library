@@ -1,15 +1,15 @@
 ---
-title: Adding a backdrop from the Scratch library
-hero_image: Kuvien / banner.png
-description: Adding a backdrop from the Scratch library
-theme: CC-prototyyppi
+title: Taustan lisääminen Scratch-kirjastosta
+hero_image: images/banner.png
+description: Taustan lisääminen Scratch-kirjastosta
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "naarmu"
+technologies: "scratch"
 steps:
   - 
-    title: Adding a backdrop
+    title: Taustan lisääminen
