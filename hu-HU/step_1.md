@@ -1,7 +1,7 @@
-+ Kattintson a **Válassza ki a háttérfüzetet a könyvtárból**.
++ Kattints a **Háttér kiválasztása a könyvtárból** ikonra.
     
-    ![screenshot](images/stage-choose.png)
+    ![képernyőkép](images/stage-choose.png)
 
-+ A háttereket kategória vagy téma alapján böngészheti. Kattints a háttérre, és kattints a **OK gombra**.
++ A háttereket kategória vagy téma alapján böngészheted. Kattints a háttérre, majd kattints az **OK** gombra.
     
-    ![screenshot](images/backdrop.png)
+    ![képernyőkép](images/backdrop.png)
