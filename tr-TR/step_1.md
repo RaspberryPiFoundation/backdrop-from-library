@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ **Dekoru kütüphaneden seç** butonuna tıklayın.
     
     ![ekran görüntüsü](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ Dekorları kategorilerine veya temalarına göre arayabilirsiniz. Önce bir dekor üzerine ve sonrasında **Tamam** butonuna tıklayın.
     
     ![ekran görüntüsü](images/backdrop.png)
