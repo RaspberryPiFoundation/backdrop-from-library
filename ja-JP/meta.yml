@@ -1,7 +1,7 @@
 ---
-title: Adding a backdrop from the Scratch library
+title: Scratchのライブラリーから背景 (はいけい) を追加する
 hero_image: images/banner.png
-description: Adding a backdrop from the Scratch library
+description: Scratchのライブラリーから背景 (はいけい) を追加する
 theme: cc-prototype
 duration: 1
 curriculum:
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Adding a backdrop
+    title: 背景 (はいけい) を追加する
