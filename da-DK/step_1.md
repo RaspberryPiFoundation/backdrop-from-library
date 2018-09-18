@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ Klik **Vælg baggrund fra biblioteket**.
     
     ![skærmbillede](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ Du kan gennemse baggrunde efter kategori eller tema. Klik på en baggrund og klik på **OK**.
     
     ![skærmbillede](images/backdrop.png)
