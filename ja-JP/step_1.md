@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ **ライブラリーから背景 (はいけい) を選択 (せんたく) ** をクリックします。
     
     ![screenshot](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ カテゴリーやテーマ別に背景を探すことができます。背景をクリックし、 **OK**をクリックします。
     
     ![screenshot](images/backdrop.png)
