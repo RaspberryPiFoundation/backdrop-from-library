@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ Nhấp vào **Chọn phông nền từ thư viện**.
     
     ![ảnh chụp màn hình](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ Bạn có thể duyệt phông nền theo danh mục hoặc chủ đề. Nhấp vào phông nền và nhấp vào **OK**.
     
     ![ảnh chụp màn hình](images/backdrop.png)
