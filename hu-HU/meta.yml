@@ -1,15 +1,15 @@
 ---
-title: Fekete háttér hozzáadása a Scratch könyvtárból
-hero_image: images / banner.png
-description: Fekete háttér hozzáadása a Scratch könyvtárból
-theme: cc-prototípus
+title: Háttér hozzáadása a Scratch könyvtárból
+hero_image: images/banner.png
+description: Háttér hozzáadása a Scratch könyvtárból
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "karcolás"
+technologies: "scratch"
 steps:
   - 
     title: Háttér hozzáadása
