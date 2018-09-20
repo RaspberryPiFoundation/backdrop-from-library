@@ -1,7 +1,7 @@
-+ Click **Choose backdrop from library**.
++ Click **בחרו רקע מהספריה**.
     
     ![צילום מסך](images/stage-choose.png)
 
-+ You can browse backdrops by category or theme. Click on a backdrop and click **OK**.
++ תוכל לבחור רקעים לפי קטגוריות או נושאים, לחץ על הרקע הרצוי ולאחר מכן לחץ על **OK**.
     
     ![צילום מסך](images/backdrop.png)
