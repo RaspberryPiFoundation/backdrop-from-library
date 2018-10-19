@@ -1,7 +1,7 @@
-+ 点击__从库中选择背景__。
++ 点击从库中选择背景
+    
+    ![截屏](images/stage-choose.png)
 
-	![screenshot](images/stage-choose.png)
-
-+ 你可以按类别或主题浏览背景。点击一张背景并点击__确认__。
-
-	![screenshot](images/backdrop.png)
++ 你可以通过分类或主题浏览背景。点击背景选中并点击OK
+    
+    ![截屏](images/backdrop.png)

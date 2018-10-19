@@ -1,7 +1,7 @@
 ---
-title: 从 Scratch 库中添加背景
+title: Tilføjelse af en baggrund fra Scratch-biblioteket
 hero_image: images/banner.png
-description: 从 Scratch 库中添加背景
+description: Tilføjelse af en baggrund fra Scratch-biblioteket
 theme: cc-prototype
 duration: 1
 curriculum:
@@ -11,4 +11,4 @@ copyedit: true
 interests:
 technologies: "scratch"
 steps:
-  - title: 添加背景
+  - title: Tilføjelse af en baggrund
